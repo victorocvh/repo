@@ -1,8 +1,8 @@
 '''
 classe: m5_lab2
 descricao: Construa uma aplicação WEB que mostra uma tabela com cadastro do deputado (Foto, Id,Nome, Estado e Partido) 
-autor: Clodonil Honorio Trigo
-email: clodonil@nisled.org
+autor: Victor Carvalho Ribeiro
+email: victor.ocv@hotmail.com
 data: 09 de maio de 2019
 '''
 from flask import Flask, render_template
